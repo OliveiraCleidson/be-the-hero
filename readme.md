@@ -27,6 +27,6 @@ Este projeto foi criado com a intenção de <b>ajudar financeiramente</b> casos 
 O teceiro setor, organizações não governamentais <b>(ONG)</b> são instituições privadas da sociedade civil sem fins lucrativos que atua nas brechas deixadas pelo setor público <i>(primeiro setor)</i> e privado <i>(segundo setor)</i>, procuram ajudar no bem estar social e estão em todos segmentos fazendo ações de <b>educação</b>, de <b>saúde</b>, de <b>segurança</b>, de <b>cultura</b>, uma infinidade de atividades. 
 
 
-### Semana Omnistrack 11
+### Semana Omnistack 11
 
 A semana foi ministrada por [Diego Fernandes] (https://github.com/diego3g)
