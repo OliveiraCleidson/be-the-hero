@@ -1,5 +1,5 @@
 <h4 align="center">
-<img src="./mobile/src/assets/logo3x.png" width="250px" /><br>
+<img src="./mobile/src/assets/logo@3x.png" width="250px" /><br>
  <b>Seja um Herói</b> 
 </h4>
 <p align="center">
@@ -29,4 +29,4 @@ O teceiro setor, organizações não governamentais <b>(ONG)</b> são instituiç
 
 ### Semana Omnistrack 11
 
-A semana foi ministrada por [Diego Fernandes](https://github.com/diego3g)
+A semana foi ministrada por [Diego Fernandes] (https://github.com/diego3g)
